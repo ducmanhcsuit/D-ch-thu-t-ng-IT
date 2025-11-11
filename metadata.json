@@ -1,0 +1,7 @@
+{
+  "name": "IT Terminology Translator",
+  "description": "A chatbot that provides accurate Vietnamese translations for English IT terms from text or images, powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
